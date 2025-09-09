@@ -1,0 +1,11 @@
+Python dependencies for the LoRA project
+torch
+bitsandbytes
+datasets
+accelerate
+loralib
+transformers @ git+https://github.com/huggingface/transformers.git
+peft @ git+https://github.com/huggingface/peft.git
+fsspec
+huggingface_hub
+ipython
